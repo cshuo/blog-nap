@@ -24,4 +24,4 @@
 
 ## 提交更新内容
 
-按git流程提交对ios-app的hexo内容所做修改（`git add .` -> `git commit -a` -> `git push origin master`），在此之前，当然你需要授权，请联系 [hub@artemisprojects.org](mailto:hub@artemisprojects.org)。
+按git流程提交对blog-nap的hexo内容所做修改（`git add .` -> `git commit -a` -> `git push origin master`），在此之前，当然你需要授权，请联系 [hub@artemisprojects.org](mailto:hub@artemisprojects.org)。
