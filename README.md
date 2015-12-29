@@ -12,7 +12,7 @@
 
 `cd blog-nap`
 
-`npm install`
+`npm install` 或 `tar axf node_modules.tar.gz`
 
 ## 添加、修改内容
 
