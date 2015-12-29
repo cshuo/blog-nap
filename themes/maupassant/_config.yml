@@ -15,9 +15,9 @@ menu:
   - page: archive
     directory: archives/
     icon: icon-archive
-  - page: about
-    directory: about/
-    icon: icon-about
+#  - page: about
+#    directory: about/
+#    icon: icon-about
   - page: rss
     directory: atom.xml
     icon: icon-rss
