@@ -24,27 +24,28 @@ menu:
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
+  - links 
   - category
   - tag
   - recent_posts
   - recent_comments
-  - links
 
 links:
   - title: Artemis Projects
     url: http://artemisprojects.org/
-  - title: Chun Cao
-    url: http://chun.nemoworks.info/
   - title: Nanjing U.
     url: http://www.nju.edu.cn/
+  - title: Chun CAO
+    url: http://chun.nemoworks.info/
   - title: Jie CHEN
-    url: http://jetmuffin.github.io
+    url: http://jetmuffin.github.io/
   - title: Shuo CHEN
-    url: http://cshuo.github.io
-#  Huating LIU: http://hooting.github.io
+    url: http://cshuo.github.io/
+# - title:  Huating LIU
+#   url: http://hooting.github.io/
   - title: Chenglin MENG
-    url: http://rdmclin2.github.io
+    url: http://rdmclin2.github.io/
   - title: Zhongliang YUAN
-    url: http://monkey-h.github.io
+    url: http://monkey-h.github.io/
   - title: Ying ZHANG
-    url: http://ying-zhang.github.io
+    url: http://ying-zhang.github.io/
