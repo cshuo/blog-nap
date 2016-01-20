@@ -102,7 +102,7 @@ pip install paramiko
 > PS, pip3默认使用python3.5，而不是系统自带的python3.4，所以最好把`/usr/bin/python3`这个符号链接从python3.4改成python3.5。
 按照下面的步骤安装：
 ```
-apt-get install python3.5-dev 
+apt-get install python3.5-dev
 pip3 install pycrypto
 pip3 install paramiko
 ```
@@ -139,5 +139,9 @@ b'Linux x 4.2.0-16-generic #19-Ubuntu SMP Thu Oct 8 15:35:06 UTC 2015 x86_64 x86
 OK，准备工作基本就绪。下面梳理一下`docker-compose up`命令来创建、启动和连接多个容器涉及的代码，主要是参考[github上的源码](https://github.com/docker/compose)和《Docker容器与容器云》的6.1.2，下面的图参考了这本书的图6.1。
 ![](/images/compose.png)
 
-
-> 挖坑：列出改动的函数，涉及`client`->`client_list`,`create`，`link`
++ project对象从compose.yml获取service列表，并根据link计算出各service的依赖关系，以此为顺序来创建各service。
++ docker-compose是针对单个docker engine的，project对象只关联了一个docker-client对象，首先我们要把它改成一个列表；
++ service对象也是只关联了一个docker-client对象，它是从project传递过来的，最终传给container对象来创建和启动容器；
++  从client列表中指派一个client给container对象，就是所谓的调度了。因为一个service会对应多个container，这些container应该可以跨Host，所以调度应该发生在service→container这个阶段；
++ 我们需要记录下来哪个docker-client创建了哪个service下面的container，容器的id，以及容器启动后的ip地址，这样我们再ssh到那个Host上去，修改对应容器id目录下的hosts文件；
++ 上面的操作可能会造成若干秒的延迟后才能正常地通过hostname来进行通信，为此，在容器的启动命令之前插入一个sleep命令，防止因为连接超时导致应用启动失败。

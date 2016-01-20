@@ -52,8 +52,8 @@ redis-slave:
 ### service 和 links
 compose中有下面2个概念
 - project：一个`docker-compose.yml`描述的就是一个project，也就是开发者的一个应用；一个project由若干service组成。
-- service：是yml中的顶层节点，上面的例子里是web， redis-master，redis-slave 。看起来每个service的子节点都是通过`docker run`运行一个容器的参数，不过service是比容器高一层的抽象，一个service对应于多个容器（container）。`docker-compose scale web=3`可以横向扩展web这个service，让它有3个容器。
-> 实际中简单扩展service显然是不够的，需要用户应用的支持。
+- service：是yml中的顶层节点，上面的例子里是web， redis-master，redis-slave 。看起来每个service的子节点都是通过`docker run`运行一个容器的参数，不过service是比容器高一层的抽象，一个service对应于多个容器（container）。比如运行`docker-compose scale web=3`命令可以横向扩展web这个service，让它有3个容器。
+> service这样简单地横向扩展在实际中显然是不够的，如果是web应用，应该有一个负载均衡节点作为入口。此外，横向扩展的容器的hostname应该有一个约定格式，这样才能与它们通信。
 
 compose除了在一个yml文件里描述多容器以外，还要把它们连接起来，这是通过yml中的`links`来描述的。compose能够让各容器之间通过域名来互相访问。
 
@@ -116,7 +116,7 @@ etcd -listen-client-urls http://0.0.0.0:4001 -advertise-client-urls http://127.0
 
 # 设置flannel的配置key（设置一次即可），使用 10.4.0.0/16 网段
 etcdctl rm /coreos.com/network --recursive  &>/dev/null
-etcdctl mk /coreos.com/network/config '{"Network":"10.4.0.0/16"}' 
+etcdctl mk /coreos.com/network/config '{"Network":"10.4.0.0/16"}'
 
 # 在任意主机上，检查etcd是否可用
 curl http://10.1.1.12:4001/version

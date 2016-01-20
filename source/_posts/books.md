@@ -15,12 +15,13 @@ author: nap
 - [亚马逊](http://www.amazon.cn/)
 - [互动出版](http://www.china-pub.com/)
 - [淘宝](http://www.taobao.com/)
-
-- [电子书1](http://www.salttiger.com/)
-- [电子书2](http://www.allitebooks.com/)
+- [电子书1](http://www.allitebooks.com/)
+- [电子书2](http://www.salttiger.com/)
 
 |序号| 书名                                                 | 保管者          |
 |----|------------------------------------------------------|-----------------|
+| 61 | 精通AngularJS                                        | Tianchi Liu     |
+| 60 | Go Web编程                                           | Tianchi Liu     |
 | 59 | Spring batch批处理框架                               | Weiyi WANG      |
 | 58 | Python绝技                                           | Weiyi WANG      |
 | 57 | C# WinForm实践开发教程                               | Xiang XU        |
