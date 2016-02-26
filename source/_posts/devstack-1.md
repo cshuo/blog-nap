@@ -1,5 +1,5 @@
 title: OpenStack与DevStack初探
-category: openstack
+category: OpenStack
 author: Yiqun Wang
 date: 2015-11-9 17:00:00
 tags: [openstack, devstack]
@@ -69,7 +69,7 @@ service $(*) restart;
 ````
 #### 自动部署(stack.sh)
 ````
-Line756, install_nova_client. 
+Line756, install_nova_client.
 Line811, stack_install_nova, 这两个函数主要进行的就是git clone和pip install, 即下载安装所需依赖包。
 Line815, configure_nova，主要对/etc/nova/nova.conf进行配置。
 Line1131, init_nova, 主要进行初始化数据库等。

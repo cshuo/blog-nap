@@ -744,7 +744,6 @@ figure.highlight {
     .gutter,
     .code,
     .tag {
-        font-family: Consolas;
         border:      none;
         padding:     0;
         margin:      0;
@@ -777,6 +776,7 @@ figure.highlight {
     // Code container
     .code {
         padding: 0.3em 0.3em 0.3em 1em;
+		font-family: consolas;
     }
     // All lines in gutter and code container
     .line {
