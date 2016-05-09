@@ -1497,7 +1497,7 @@
     <link href="http://nap-blog.artemisprojects.org/2015/10/21/books/"/>
     <id>http://nap-blog.artemisprojects.org/2015/10/21/books/</id>
     <published>2015-10-20T16:00:00.000Z</published>
-    <updated>2016-04-06T03:06:29.906Z</updated>
+    <updated>2016-05-09T06:01:15.378Z</updated>
     
     <content type="html">&lt;p&gt; 汇总大家共享的书籍，欢迎组员之间互相借阅。&lt;br&gt;2016-1-18 更新。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -1520,9 +1520,39 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;61&lt;/td&gt;
-&lt;td&gt; 精通 AngularJS&lt;/td&gt;
+&lt;td&gt;67&lt;/td&gt;
+&lt;td&gt; 机器学习 &lt;/td&gt;
+&lt;td&gt;Ying ZHANG&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;66&lt;/td&gt;
+&lt;td&gt;Spark MLlib 机器学习 &lt;/td&gt;
+&lt;td&gt;Ying ZHANG&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;65&lt;/td&gt;
+&lt;td&gt; 深入理解 hadoop 第二版 &lt;/td&gt;
 &lt;td&gt;Tianchi Liu&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;64&lt;/td&gt;
+&lt;td&gt;Eclipse RCP 深入浅出 (?)&lt;/td&gt;
+&lt;td&gt;Yiqun WANG&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;63&lt;/td&gt;
+&lt;td&gt;AngularJS 权威指南 &lt;/td&gt;
+&lt;td&gt;Zhongliang YUAN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;62&lt;/td&gt;
+&lt;td&gt;Spark 快速大数据分析 &lt;/td&gt;
+&lt;td&gt;Xiang XU&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;61&lt;/td&gt;
+&lt;td&gt; 深入理解 JVM 第二版 &lt;/td&gt;
+&lt;td&gt;Zhongliang YUAN&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;60&lt;/td&gt;
