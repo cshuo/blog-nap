@@ -23,12 +23,12 @@ author: nap
 |----|------------------------------------------------------|-----------------|
 | 67 | 机器学习                                             | Ying ZHANG      |
 | 66 | Spark MLlib机器学习                                  | Ying ZHANG      |
-| 65 | 深入理解hadoop 第二版                                | Tianchi Liu     |
+| 65 | 深入理解hadoop 第二版                                | Tianchi LIU     |
 | 64 | Eclipse RCP深入浅出(?)                               | Yiqun WANG      |
 | 63 | AngularJS权威指南                                    | Zhongliang YUAN |
 | 62 | Spark快速大数据分析                                  | Xiang XU        |
 | 61 | 深入理解JVM 第二版                                   | Zhongliang YUAN |
-| 60 | Go Web编程                                           | Tianchi Liu     |
+| 60 | Go Web编程                                           | Tianchi LIU     |
 | 59 | Spring batch批处理框架                               | Weiyi WANG      |
 | 58 | Python绝技                                           | Weiyi WANG      |
 | 57 | C# WinForm实践开发教程                               | Xiang XU        |
