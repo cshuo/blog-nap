@@ -21,6 +21,8 @@ author: nap
 
 |序号| 书名                                                 | 保管者          |
 |----|------------------------------------------------------|-----------------|
+| 69 | 代码整洁之道                                         | Zhongliang YUAN |
+| 68 | Nginx高性能web服务器详解                             | Zhongliang YUAN |
 | 67 | 机器学习                                             | Ying ZHANG      |
 | 66 | Spark MLlib机器学习                                  | Ying ZHANG      |
 | 65 | 深入理解hadoop 第二版                                | Tianchi LIU     |
