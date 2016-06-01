@@ -1497,7 +1497,7 @@
     <link href="http://nap-blog.artemisprojects.org/2015/10/21/books/"/>
     <id>http://nap-blog.artemisprojects.org/2015/10/21/books/</id>
     <published>2015-10-20T16:00:00.000Z</published>
-    <updated>2016-05-11T13:04:32.252Z</updated>
+    <updated>2016-06-01T13:20:11.123Z</updated>
     
     <content type="html">&lt;p&gt; 汇总大家共享的书籍，欢迎组员之间互相借阅。&lt;br&gt;2016-1-18 更新。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -1519,6 +1519,31 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;74&lt;/td&gt;
+&lt;td&gt;Redis 设计与实现 &lt;/td&gt;
+&lt;td&gt;Ying ZHANG&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;73&lt;/td&gt;
+&lt;td&gt;Redis 实战 &lt;/td&gt;
+&lt;td&gt;Ying ZHANG&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;72&lt;/td&gt;
+&lt;td&gt;MySQL 管理之道：性能调优，高可用与监控 &lt;/td&gt;
+&lt;td&gt;Zhongliang YUAN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;71&lt;/td&gt;
+&lt;td&gt; 高可用 MySQL&lt;/td&gt;
+&lt;td&gt;Zhongliang YUAN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;70&lt;/td&gt;
+&lt;td&gt;Javascript 权威指南 &lt;/td&gt;
+&lt;td&gt;Chenglin MENG&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;69&lt;/td&gt;
 &lt;td&gt; 代码整洁之道 &lt;/td&gt;
