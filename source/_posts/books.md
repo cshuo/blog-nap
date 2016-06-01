@@ -21,6 +21,11 @@ author: nap
 
 |序号| 书名                                                 | 保管者          |
 |----|------------------------------------------------------|-----------------|
+| 74 | Redis设计与实现                                      | Ying ZHANG      |
+| 73 | Redis实战                                            | Ying ZHANG      |
+| 72 | MySQL管理之道：性能调优，高可用与监控                | Zhongliang YUAN |
+| 71 | 高可用MySQL                                          | Zhongliang YUAN |
+| 70 | Javascript权威指南                                   | Chenglin MENG   |
 | 69 | 代码整洁之道                                         | Zhongliang YUAN |
 | 68 | Nginx高性能web服务器详解                             | Zhongliang YUAN |
 | 67 | 机器学习                                             | Ying ZHANG      |
