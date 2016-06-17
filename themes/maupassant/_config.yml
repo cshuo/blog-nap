@@ -33,22 +33,34 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 links:
   - title: Artemis Projects
     url: http://artemisprojects.org/
-  - title: Nanjing U.
+  - title: Nanjing Univ.
     url: http://www.nju.edu.cn/
   - title: Chun CAO
     url: http://chun.nemoworks.info/
-  - title: Chenchen CAO
-    url: http://chrisforest.github.io/
+#  - title: Chenchen CAO
+#    url: http://chrisforest.github.io/
   - title: Jie CHEN
     url: http://jetmuffin.github.io/
   - title: Shuo CHEN
     url: http://cshuo.github.io/
+  - title: Hongjun GE
+    url: http://NAP-GHJ.github.io
 # - title:  Huating LIU
 #   url: http://hooting.github.io/
   - title: Tianchi LIU
     url: http://itanch.github.io
+  - title: Ziling LU
+    url: http://Luziling.github.io
+  - title: Jing DENG
+    url: http://dmemoing.github.io
   - title: Chenglin MENG
     url: http://rdmclin2.github.io/
+  - title: Weiyi WANG
+    url: http://co2y.github.io/
+  - title: Yiqun WANG
+    url: http://qunnn41.github.io
+  - title: Xiang XU
+    url: http://flyxu.github.io
   - title: Zhongliang YUAN
     url: http://monkey-h.github.io/
   - title: Ying ZHANG
