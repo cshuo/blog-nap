@@ -21,6 +21,21 @@ author: nap
 
 |序号| 书名                                                 | 保管者          |
 |----|------------------------------------------------------|-----------------|
+| 89 | 人月神话                                             | Shuo CHENG      |
+| 88 | HTTP权威指南                                         | Shuo CHENG      |
+| 87 | 现代体系结构上的UNIX系统：内核程序员的SMP和缓存技术  | Shuo CHENG      |
+| 86 | 哥德尔、埃舍尔、巴赫：集异壁之大成                   | Shuo CHENG      |
+| 85 | 程序员健康指南                                       | Shuo CHENG      |
+| 84 | UNIX环境高级编程                                     | Shuo CHENG      |
+| 83 | 计算机程序的构造和解释                               | Shuo CHENG      |
+| 82 | Kubernetes实战                                       | Ying ZHANG      |
+| 81 | Zookeeper分布式过程协同技术详解                      | Ying ZHANG      |
+| 80 | 持续集成实践                                         | Ying ZHANG      |
+| 79 | Vim实用技巧                                          | Ying ZHANG      |
+| 78 | ggplot2：数据分析与图形艺术                          | Ying ZHANG      |
+| 77 | Flask Web开发：基于Python的Web应用开发实战           | Zhongliang YUAN |
+| 76 | 深入理解Nginx：模块开发与架构解析                    | Zhongliang YUAN |
+| 75 | 毕业5年决定你的一生                                  | Zhongliang YUAN |
 | 74 | Redis设计与实现                                      | Ying ZHANG      |
 | 73 | Redis实战                                            | Ying ZHANG      |
 | 72 | MySQL管理之道：性能调优，高可用与监控                | Zhongliang YUAN |
@@ -94,4 +109,4 @@ author: nap
 | 4  | Python Cookbook 中文 第3版                           | Shuo CHENG      |
 | 3  | Mesos：大数据资源调度与大规模容器运行最佳实践        | Xiang XU        |
 | 2  | Docker开发实践                                       | Ying ZHANG      |
-| 1  | **Docker —— 容器与容器云*                            | Ying ZHANG      |
+| 1  | Docker — 容器与容器云                                | Ying ZHANG      |
