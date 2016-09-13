@@ -27,11 +27,11 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - category
   - tag
   - links
-  - recent_posts
-  - recent_comments
+#  - recent_posts
+#  - recent_comments
 
 links:
-  - title: Êé¼Ü
+  - title: ä¹¦æž¶
     url: http://nap-blog.artemisprojects.org/2015/10/21/books/
 #  - title: Artemis Projects
 #    url: http://artemisprojects.org/
