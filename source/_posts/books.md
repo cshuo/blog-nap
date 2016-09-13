@@ -1,11 +1,11 @@
 title: 我们的书架
-category: 未分类
+category: 书架
 date: 2015-10-21
 tags:
 author: nap
 ---
 汇总大家共享的书籍，欢迎组员之间互相借阅。
-2016-1-18更新。
+2016-9-15更新。
 
 <!--more-->
 
@@ -15,12 +15,19 @@ author: nap
 - [亚马逊](http://www.amazon.cn/)
 - [互动出版](http://www.china-pub.com/)
 - [淘宝](http://www.taobao.com/)
-- [电子书1](http://www.allitebooks.com/)
-- [电子书2](http://www.salttiger.com/)
+- [电子书](http://www.salttiger.com/)
 
 
 |序号| 书名                                                 | 保管者          |
 |----|------------------------------------------------------|-----------------|
+| 97 | 计算机体系结构:量化研究方法:第5版                    | Ying ZHANG      |
+| 96 | 程序员面试宝典                                       | Ziling LU       |
+| 95 | 剑指offer                                            | Ziling LU       |
+| 94 | 逻辑学导论                                           | Yiqun WANG      |
+| 93 | Java并发编程实战                                     | Ying ZHANG      |
+| 92 | Spark技术内幕                                        | Ying ZHANG      |
+| 91 | Spark核心技术                                        | Ying ZHANG      |
+| 90 | Android系统源码情景分析（修订版）                    | Tianchi LIU     |
 | 89 | 人月神话                                             | Shuo CHENG      |
 | 88 | HTTP权威指南                                         | Shuo CHENG      |
 | 87 | 现代体系结构上的UNIX系统：内核程序员的SMP和缓存技术  | Shuo CHENG      |
